@@ -45,16 +45,19 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sig = 'https://instagram.com/yudtya.w'
+global.sgh = 'https://github.com/fourzyxd'
+global.sgc = '-'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085748600473'
+global.povo = '-'
+global.pgopay = '-'
 global.ppulsa = '085748600473'
 global.ppulsa2 = '085748600473'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285791381170'
@@ -184,7 +187,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'foirzyxd'
+global.stickpack = 'fourzyxd'
 global.stickauth = `By ©yudtya.w`
 
 global.multiplier = 38 // The higher, The harder levelup
